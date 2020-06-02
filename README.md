@@ -15,3 +15,4 @@ To compile the project use the maven command
 Inside your shell with Hadoop
 
     hadoop jar your-hadoop-application.jar arg0 arg1 ...
+    bin/hadoop jar /Users/fernandopimenta/bigdata/maven-hadoop-java-wordcount-template/target/hadoopContador.jar com.example.Driver input output
