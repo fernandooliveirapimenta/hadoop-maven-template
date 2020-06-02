@@ -2,12 +2,4 @@
 <settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd" xmlns="http://maven.apache.org/SETTINGS/1.1.0"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <!--<servers>-->
-        <!--<server>-->
-            <!--<id>emr-6.0.0-artifacts</id>-->
-            <!--<username>AKIAVUM7UHSO3JVNCAOY</username>-->
-            <!--<password>OQ/imBpI8IqCsw3nHIIIousK7EhBwKufqtMhLjbb</password>-->
-        <!--</server>-->
-    <!--</servers>-->
-
 </settings>
